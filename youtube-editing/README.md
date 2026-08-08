@@ -14,6 +14,7 @@ Phân tích kỹ thuật editing từ video YouTube: pacing, cut, transition, st
 | Kiếm tiền Upwork/Fiverr | [lo-trinh/kiem-tien-upwork.md](./lo-trinh/kiem-tien-upwork.md) |
 | Kiếm tiền YouTube | [lo-trinh/kiem-tien-youtube.md](./lo-trinh/kiem-tien-youtube.md) |
 | **Timeline tổng thể** | [lo-trinh/lo-trinh-tong-the.md](./lo-trinh/lo-trinh-tong-the.md) |
+| **Phím tắt DaVinci Resolve** | [phim-tat-davinci-resolve.md](./phim-tat-davinci-resolve.md) |
 
 ## Gợi ý tổ chức thêm
 
